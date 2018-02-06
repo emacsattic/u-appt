@@ -57,23 +57,13 @@ Gnus users might want to use the following.
 
 ## History
 
-* 0.5 
+* **0.5** Swedish Outlook improved, by Cristian Ionescu-Idbohrn. (2005-01-22)
 
-Swedish Outlook improved, by Cristian Ionescu-Idbohrn. (2005-01-22)
+* **0.4** Swedish Outlook, from Cristian Ionescu-Idbohrn. (2004-10-30)
 
-* 0.4
-
-Swedish Outlook, from Cristian Ionescu-Idbohrn. (2004-10-30)
-
-* 0.3 
-
-Norwegian Outlook (i.e. US Outlook with Norwegian locale), from
+* **0.3** Norwegian Outlook (i.e. US Outlook with Norwegian locale), from
 Steinar Bang.  (2004-10-09)
 
-* 0.2
+* **0.2** Bugfixes, thanks to Colin Marquardt.
 
-Bugfixes, thanks to Colin Marquardt.
-
-* 0.1
-
-First version.
+* **0.1** First version.
